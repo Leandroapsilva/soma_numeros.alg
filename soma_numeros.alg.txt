@@ -1,0 +1,16 @@
+algoritmo "soma_numeros"
+// Função :  Efetuar a soma de dois valores e mostrar o resultado
+// Autor : Leandro
+// Data : 11/10/2020
+// Seção de Declarações 
+var
+X: inteiro
+A: inteiro
+B: inteiro
+inicio
+// Seção de Comandos
+leia(A)
+leia(B)
+X <- A + B
+escreva(X)
+fimalgoritmo
